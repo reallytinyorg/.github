@@ -1,1 +1,1 @@
-# .github
+# tinyorg
